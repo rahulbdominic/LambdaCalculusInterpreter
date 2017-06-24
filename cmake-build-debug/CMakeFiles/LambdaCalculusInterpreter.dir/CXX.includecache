@@ -6,33 +6,33 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Lexer.cpp
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.cpp
 regex
 -
 Lexer.h
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Lexer.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.h
 
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Lexer.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.h
 TokenType.h
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.h
 Token.h
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.h
 iostream
 -
 
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.cpp
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.cpp
 Token.h
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.h
 
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.h
 TokenType.h
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.h
 
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.cpp
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.cpp
 TokenType.h
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.h
 
-C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.h
+C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.h
 
 C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/main.cpp
 iostream

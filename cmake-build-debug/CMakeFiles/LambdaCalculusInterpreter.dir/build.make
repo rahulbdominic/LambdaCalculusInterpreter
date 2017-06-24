@@ -80,92 +80,92 @@ CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj.provides: CMakeFiles/Lambd
 CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj
 
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj: CMakeFiles/LambdaCalculusInterpreter.dir/flags.make
-CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj: Lexer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LambdaCalculusInterpreter.dir\Lexer.cpp.obj -c C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\Lexer.cpp
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj: CMakeFiles/LambdaCalculusInterpreter.dir/flags.make
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj: ../LambdaCalculusInterpreter/Lexer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Lexer.cpp.obj -c C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Lexer.cpp
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\Lexer.cpp > CMakeFiles\LambdaCalculusInterpreter.dir\Lexer.cpp.i
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Lexer.cpp > CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Lexer.cpp.i
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\Lexer.cpp -o CMakeFiles\LambdaCalculusInterpreter.dir\Lexer.cpp.s
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Lexer.cpp -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Lexer.cpp.s
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.requires:
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.requires:
 
-.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.requires
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.requires
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.provides: CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.provides.build
-.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.provides
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.provides: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.provides.build
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.provides
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj
-
-
-CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj: CMakeFiles/LambdaCalculusInterpreter.dir/flags.make
-CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj: TokenType.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LambdaCalculusInterpreter.dir\TokenType.cpp.obj -c C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\TokenType.cpp
-
-CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\TokenType.cpp > CMakeFiles\LambdaCalculusInterpreter.dir\TokenType.cpp.i
-
-CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\TokenType.cpp -o CMakeFiles\LambdaCalculusInterpreter.dir\TokenType.cpp.s
-
-CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.requires:
-
-.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.requires
-
-CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.provides: CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.provides.build
-.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.provides
-
-CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj
 
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj: CMakeFiles/LambdaCalculusInterpreter.dir/flags.make
-CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj: Token.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj"
-	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LambdaCalculusInterpreter.dir\Token.cpp.obj -c C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\Token.cpp
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj: CMakeFiles/LambdaCalculusInterpreter.dir/flags.make
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj: ../LambdaCalculusInterpreter/TokenType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\TokenType.cpp.obj -c C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\TokenType.cpp
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.i"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\Token.cpp > CMakeFiles\LambdaCalculusInterpreter.dir\Token.cpp.i
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\TokenType.cpp > CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\TokenType.cpp.i
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.s"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\Token.cpp -o CMakeFiles\LambdaCalculusInterpreter.dir\Token.cpp.s
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\TokenType.cpp -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\TokenType.cpp.s
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.requires:
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.requires:
 
-.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.requires
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.requires
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.provides: CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.provides.build
-.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.provides
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.provides: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.provides.build
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.provides
 
-CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj
+
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj: CMakeFiles/LambdaCalculusInterpreter.dir/flags.make
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj: ../LambdaCalculusInterpreter/Token.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Token.cpp.obj -c C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Token.cpp
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Token.cpp > CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Token.cpp.i
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Token.cpp -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Token.cpp.s
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.requires:
+
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.requires
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.provides: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.provides.build
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.provides
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj
 
 
 # Object files for target LambdaCalculusInterpreter
 LambdaCalculusInterpreter_OBJECTS = \
 "CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj" \
-"CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj" \
-"CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj" \
-"CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj"
+"CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj" \
+"CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj" \
+"CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj"
 
 # External object files for target LambdaCalculusInterpreter
 LambdaCalculusInterpreter_EXTERNAL_OBJECTS =
 
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj
-LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj
-LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj
-LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj
+LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj
+LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj
+LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/build.make
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/linklibs.rsp
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/objects1.rsp
@@ -179,9 +179,9 @@ CMakeFiles/LambdaCalculusInterpreter.dir/build: LambdaCalculusInterpreter.exe
 .PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/build
 
 CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj.requires
-CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj.requires
-CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj.requires
-CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj.requires
+CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.requires
+CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.requires
+CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.requires
 
 .PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/requires
 

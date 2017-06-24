@@ -82,22 +82,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Lexer.cpp">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Lexer.h">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.cpp">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.h">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.cpp">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.h">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
 		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/main.cpp">

@@ -122,86 +122,86 @@ LambdaCalculusInterpreter/fast:
 	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/build
 .PHONY : LambdaCalculusInterpreter/fast
 
-Lexer.obj: Lexer.cpp.obj
+LambdaCalculusInterpreter/Lexer.obj: LambdaCalculusInterpreter/Lexer.cpp.obj
 
-.PHONY : Lexer.obj
-
-# target to build an object file
-Lexer.cpp.obj:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj
-.PHONY : Lexer.cpp.obj
-
-Lexer.i: Lexer.cpp.i
-
-.PHONY : Lexer.i
-
-# target to preprocess a source file
-Lexer.cpp.i:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.i
-.PHONY : Lexer.cpp.i
-
-Lexer.s: Lexer.cpp.s
-
-.PHONY : Lexer.s
-
-# target to generate assembly for a file
-Lexer.cpp.s:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.s
-.PHONY : Lexer.cpp.s
-
-Token.obj: Token.cpp.obj
-
-.PHONY : Token.obj
+.PHONY : LambdaCalculusInterpreter/Lexer.obj
 
 # target to build an object file
-Token.cpp.obj:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj
-.PHONY : Token.cpp.obj
+LambdaCalculusInterpreter/Lexer.cpp.obj:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj
+.PHONY : LambdaCalculusInterpreter/Lexer.cpp.obj
 
-Token.i: Token.cpp.i
+LambdaCalculusInterpreter/Lexer.i: LambdaCalculusInterpreter/Lexer.cpp.i
 
-.PHONY : Token.i
+.PHONY : LambdaCalculusInterpreter/Lexer.i
 
 # target to preprocess a source file
-Token.cpp.i:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.i
-.PHONY : Token.cpp.i
+LambdaCalculusInterpreter/Lexer.cpp.i:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.i
+.PHONY : LambdaCalculusInterpreter/Lexer.cpp.i
 
-Token.s: Token.cpp.s
+LambdaCalculusInterpreter/Lexer.s: LambdaCalculusInterpreter/Lexer.cpp.s
 
-.PHONY : Token.s
+.PHONY : LambdaCalculusInterpreter/Lexer.s
 
 # target to generate assembly for a file
-Token.cpp.s:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.s
-.PHONY : Token.cpp.s
+LambdaCalculusInterpreter/Lexer.cpp.s:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.s
+.PHONY : LambdaCalculusInterpreter/Lexer.cpp.s
 
-TokenType.obj: TokenType.cpp.obj
+LambdaCalculusInterpreter/Token.obj: LambdaCalculusInterpreter/Token.cpp.obj
 
-.PHONY : TokenType.obj
+.PHONY : LambdaCalculusInterpreter/Token.obj
 
 # target to build an object file
-TokenType.cpp.obj:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj
-.PHONY : TokenType.cpp.obj
+LambdaCalculusInterpreter/Token.cpp.obj:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj
+.PHONY : LambdaCalculusInterpreter/Token.cpp.obj
 
-TokenType.i: TokenType.cpp.i
+LambdaCalculusInterpreter/Token.i: LambdaCalculusInterpreter/Token.cpp.i
 
-.PHONY : TokenType.i
+.PHONY : LambdaCalculusInterpreter/Token.i
 
 # target to preprocess a source file
-TokenType.cpp.i:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.i
-.PHONY : TokenType.cpp.i
+LambdaCalculusInterpreter/Token.cpp.i:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.i
+.PHONY : LambdaCalculusInterpreter/Token.cpp.i
 
-TokenType.s: TokenType.cpp.s
+LambdaCalculusInterpreter/Token.s: LambdaCalculusInterpreter/Token.cpp.s
 
-.PHONY : TokenType.s
+.PHONY : LambdaCalculusInterpreter/Token.s
 
 # target to generate assembly for a file
-TokenType.cpp.s:
-	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.s
-.PHONY : TokenType.cpp.s
+LambdaCalculusInterpreter/Token.cpp.s:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.s
+.PHONY : LambdaCalculusInterpreter/Token.cpp.s
+
+LambdaCalculusInterpreter/TokenType.obj: LambdaCalculusInterpreter/TokenType.cpp.obj
+
+.PHONY : LambdaCalculusInterpreter/TokenType.obj
+
+# target to build an object file
+LambdaCalculusInterpreter/TokenType.cpp.obj:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj
+.PHONY : LambdaCalculusInterpreter/TokenType.cpp.obj
+
+LambdaCalculusInterpreter/TokenType.i: LambdaCalculusInterpreter/TokenType.cpp.i
+
+.PHONY : LambdaCalculusInterpreter/TokenType.i
+
+# target to preprocess a source file
+LambdaCalculusInterpreter/TokenType.cpp.i:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.i
+.PHONY : LambdaCalculusInterpreter/TokenType.cpp.i
+
+LambdaCalculusInterpreter/TokenType.s: LambdaCalculusInterpreter/TokenType.cpp.s
+
+.PHONY : LambdaCalculusInterpreter/TokenType.s
+
+# target to generate assembly for a file
+LambdaCalculusInterpreter/TokenType.cpp.s:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.s
+.PHONY : LambdaCalculusInterpreter/TokenType.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -239,15 +239,15 @@ help:
 	@echo ... edit_cache
 	@echo ... LambdaCalculusInterpreter
 	@echo ... rebuild_cache
-	@echo ... Lexer.obj
-	@echo ... Lexer.i
-	@echo ... Lexer.s
-	@echo ... Token.obj
-	@echo ... Token.i
-	@echo ... Token.s
-	@echo ... TokenType.obj
-	@echo ... TokenType.i
-	@echo ... TokenType.s
+	@echo ... LambdaCalculusInterpreter/Lexer.obj
+	@echo ... LambdaCalculusInterpreter/Lexer.i
+	@echo ... LambdaCalculusInterpreter/Lexer.s
+	@echo ... LambdaCalculusInterpreter/Token.obj
+	@echo ... LambdaCalculusInterpreter/Token.i
+	@echo ... LambdaCalculusInterpreter/Token.s
+	@echo ... LambdaCalculusInterpreter/TokenType.obj
+	@echo ... LambdaCalculusInterpreter/TokenType.i
+	@echo ... LambdaCalculusInterpreter/TokenType.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
