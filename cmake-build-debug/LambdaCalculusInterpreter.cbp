@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Lexer.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.cpp">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/Token.h">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
 		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/TokenType.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>

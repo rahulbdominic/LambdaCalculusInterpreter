@@ -7,6 +7,7 @@
 
 
 #include "TokenType.h"
+#include "Token.h"
 #include <iostream>
 
 class Lexer {
@@ -14,11 +15,11 @@ class Lexer {
 private:
     std::string input;
     int index;
-    std::string token;
+    Token token;
 
     char nextChar();
 
-    std::string nextToken();
+    void nextToken();
 
 public:
     Lexer(std::string &input);

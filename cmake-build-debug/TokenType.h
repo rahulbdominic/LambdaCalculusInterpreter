@@ -7,8 +7,7 @@
 
 
 enum class TokenType {
-    TYPE1,
-    TYPE2
+    LAMBDA, DOT, LPAREN, RPAREN, SENTINAL, LCID
 };
 
 

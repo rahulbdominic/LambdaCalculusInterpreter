@@ -149,6 +149,33 @@ Lexer.cpp.s:
 	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.s
 .PHONY : Lexer.cpp.s
 
+Token.obj: Token.cpp.obj
+
+.PHONY : Token.obj
+
+# target to build an object file
+Token.cpp.obj:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj
+.PHONY : Token.cpp.obj
+
+Token.i: Token.cpp.i
+
+.PHONY : Token.i
+
+# target to preprocess a source file
+Token.cpp.i:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.i
+.PHONY : Token.cpp.i
+
+Token.s: Token.cpp.s
+
+.PHONY : Token.s
+
+# target to generate assembly for a file
+Token.cpp.s:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.s
+.PHONY : Token.cpp.s
+
 TokenType.obj: TokenType.cpp.obj
 
 .PHONY : TokenType.obj
@@ -215,6 +242,9 @@ help:
 	@echo ... Lexer.obj
 	@echo ... Lexer.i
 	@echo ... Lexer.s
+	@echo ... Token.obj
+	@echo ... Token.i
+	@echo ... Token.s
 	@echo ... TokenType.obj
 	@echo ... TokenType.i
 	@echo ... TokenType.s

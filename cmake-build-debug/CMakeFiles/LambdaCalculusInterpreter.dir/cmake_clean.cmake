@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj"
   "CMakeFiles/LambdaCalculusInterpreter.dir/Lexer.cpp.obj"
   "CMakeFiles/LambdaCalculusInterpreter.dir/TokenType.cpp.obj"
+  "CMakeFiles/LambdaCalculusInterpreter.dir/Token.cpp.obj"
   "LambdaCalculusInterpreter.pdb"
   "LambdaCalculusInterpreter.exe"
   "LambdaCalculusInterpreter.exe.manifest"
