@@ -12,3 +12,7 @@ char *AstApplication::toString() {
 }
 
 AstApplication::AstApplication(AstEntity *lhs, AstEntity *rhs) : lhs(lhs), rhs(rhs) {}
+
+AstEntityType AstApplication::getType() {
+    return AstEntityType::APPLICATION;
+}

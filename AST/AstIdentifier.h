@@ -16,6 +16,8 @@ public:
     AstIdentifier(int value);
 
     char *toString() override;
+
+    AstEntityType getType() override;
 };
 
 

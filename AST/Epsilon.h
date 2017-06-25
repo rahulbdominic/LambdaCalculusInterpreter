@@ -11,6 +11,9 @@
 class Epsilon : AstEntity {
 public:
     char *toString() override;
+
+private:
+    AstEntityType getType() override;
 };
 
 

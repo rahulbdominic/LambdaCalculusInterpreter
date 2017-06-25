@@ -11,3 +11,7 @@ AstEntity::AstEntity() {
 char *AstEntity::toString() {
     return nullptr;
 }
+
+AstEntityType AstEntity::getType() {
+    return AstEntityType::BASE;
+}

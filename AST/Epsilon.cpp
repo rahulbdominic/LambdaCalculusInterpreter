@@ -9,3 +9,7 @@ char *Epsilon::toString() {
 
     return str;
 }
+
+AstEntityType Epsilon::getType() {
+    return AstEntityType::EPSILON;
+}

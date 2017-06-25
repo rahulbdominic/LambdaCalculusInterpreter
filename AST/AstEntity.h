@@ -6,11 +6,15 @@
 #define LAMBDACALCULUSINTERPRETER_ASTENTITY_H
 
 
+#include "AstEntityType.h"
+
 class AstEntity {
 public:
     AstEntity();
 
     virtual char *toString();
+
+    virtual AstEntityType getType();
 };
 
 

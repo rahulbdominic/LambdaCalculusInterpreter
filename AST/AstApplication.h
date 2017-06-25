@@ -10,13 +10,15 @@
 
 class AstApplication : public AstEntity {
 private:
-    AstEntity* lhs;
-    AstEntity* rhs;
+    AstEntity *lhs;
+    AstEntity *rhs;
 
 public:
     AstApplication(AstEntity *lhs, AstEntity *rhs);
 
     char *toString() override;
+
+    AstEntityType getType() override;
 };
 
 

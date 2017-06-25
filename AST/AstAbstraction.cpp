@@ -12,3 +12,7 @@ char *AstAbstraction::toString() {
 }
 
 AstAbstraction::AstAbstraction(char *param, AstEntity *body) : param(param), body(body) {}
+
+AstEntityType AstAbstraction::getType() {
+    return AstEntityType::ABSTRACTION;
+}

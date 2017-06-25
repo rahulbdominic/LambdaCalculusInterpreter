@@ -12,3 +12,7 @@ char *AstIdentifier::toString() {
     snprintf(buff, sizeof(buff), "%d", value);
     return buff;
 }
+
+AstEntityType AstIdentifier::getType() {
+    return AstEntityType::IDENTIFIER;
+}
