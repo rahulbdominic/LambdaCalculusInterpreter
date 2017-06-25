@@ -63,8 +63,6 @@ cstring
 -
 algorithm
 -
-vector
--
 Parser.h
 C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/Parser.h
 AST/AstIdentifier.h
