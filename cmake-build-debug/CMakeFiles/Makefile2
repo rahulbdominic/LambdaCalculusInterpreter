@@ -65,7 +65,7 @@ CMAKE_BINARY_DIR = C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-
 CMakeFiles/LambdaCalculusInterpreter.dir/all:
 	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/depend
 	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target LambdaCalculusInterpreter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target LambdaCalculusInterpreter"
 .PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/all
 
 # Include target in all.
@@ -75,7 +75,7 @@ all: CMakeFiles/LambdaCalculusInterpreter.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LambdaCalculusInterpreter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles 11
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/LambdaCalculusInterpreter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/rule

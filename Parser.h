@@ -7,6 +7,7 @@
 
 
 #include "Lexer.h"
+#include "AST/AstEntity.h"
 
 class Parser {
 private:
@@ -15,13 +16,13 @@ private:
 public:
     Parser(Lexer lexer);
 
-    Token parse();
+    AstEntity parse();
 
-    Token term();
+    AstEntity term(std::vector<char> ctx);
 
-    Token application();
+    AstEntity application(std::vector<char> ctx);
 
-    Token atom();
+    AstEntity atom(std::vector<char> ctx);
 };
 
 

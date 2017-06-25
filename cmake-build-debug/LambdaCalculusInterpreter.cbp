@@ -82,28 +82,58 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.cpp">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstAbstraction.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.h">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstAbstraction.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Parser.cpp">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstApplication.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Parser.h">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstApplication.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.cpp">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstEntity.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.h">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstEntity.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.cpp">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstIdentifier.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
-		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.h">
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/AstIdentifier.h">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/Epsilon.cpp">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/AST/Epsilon.h">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/Lexer.cpp">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/Lexer.h">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/Parser.cpp">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/Parser.h">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/Token.cpp">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/Token.h">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/TokenType.cpp">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/TokenType.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
 		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/main.cpp">
