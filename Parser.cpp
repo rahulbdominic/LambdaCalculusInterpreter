@@ -4,7 +4,6 @@
 
 #include <cstring>
 #include <algorithm>
-#include <vector>
 #include "Parser.h"
 #include "AST/AstIdentifier.h"
 #include "AST/AstApplication.h"
