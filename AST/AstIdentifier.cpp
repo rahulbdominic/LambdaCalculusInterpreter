@@ -2,10 +2,13 @@
 // Created by rahul on 24/06/2017.
 //
 
+#include <cstdio>
 #include "AstIdentifier.h"
 
 AstIdentifier::AstIdentifier(int value) : value(value) {}
 
 char *AstIdentifier::toString() {
-    return AstEntity::toString();
+    char *buff = new char[2];
+    snprintf(buff, sizeof(buff), "%c", value);
+    return buff;
 }
