@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.h">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Parser.cpp">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
+		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Parser.h">
+			<Option target="LambdaCalculusInterpreter"/>
+		</Unit>
 		<Unit filename="C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.cpp">
 			<Option target="LambdaCalculusInterpreter"/>
 		</Unit>

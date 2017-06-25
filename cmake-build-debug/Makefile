@@ -149,6 +149,33 @@ LambdaCalculusInterpreter/Lexer.cpp.s:
 	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.s
 .PHONY : LambdaCalculusInterpreter/Lexer.cpp.s
 
+LambdaCalculusInterpreter/Parser.obj: LambdaCalculusInterpreter/Parser.cpp.obj
+
+.PHONY : LambdaCalculusInterpreter/Parser.obj
+
+# target to build an object file
+LambdaCalculusInterpreter/Parser.cpp.obj:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj
+.PHONY : LambdaCalculusInterpreter/Parser.cpp.obj
+
+LambdaCalculusInterpreter/Parser.i: LambdaCalculusInterpreter/Parser.cpp.i
+
+.PHONY : LambdaCalculusInterpreter/Parser.i
+
+# target to preprocess a source file
+LambdaCalculusInterpreter/Parser.cpp.i:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.i
+.PHONY : LambdaCalculusInterpreter/Parser.cpp.i
+
+LambdaCalculusInterpreter/Parser.s: LambdaCalculusInterpreter/Parser.cpp.s
+
+.PHONY : LambdaCalculusInterpreter/Parser.s
+
+# target to generate assembly for a file
+LambdaCalculusInterpreter/Parser.cpp.s:
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.s
+.PHONY : LambdaCalculusInterpreter/Parser.cpp.s
+
 LambdaCalculusInterpreter/Token.obj: LambdaCalculusInterpreter/Token.cpp.obj
 
 .PHONY : LambdaCalculusInterpreter/Token.obj
@@ -242,6 +269,9 @@ help:
 	@echo ... LambdaCalculusInterpreter/Lexer.obj
 	@echo ... LambdaCalculusInterpreter/Lexer.i
 	@echo ... LambdaCalculusInterpreter/Lexer.s
+	@echo ... LambdaCalculusInterpreter/Parser.obj
+	@echo ... LambdaCalculusInterpreter/Parser.i
+	@echo ... LambdaCalculusInterpreter/Parser.s
 	@echo ... LambdaCalculusInterpreter/Token.obj
 	@echo ... LambdaCalculusInterpreter/Token.i
 	@echo ... LambdaCalculusInterpreter/Token.s

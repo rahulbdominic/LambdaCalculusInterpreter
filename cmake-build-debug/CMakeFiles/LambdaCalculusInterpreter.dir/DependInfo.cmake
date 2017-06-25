@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Lexer.cpp" "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj"
+  "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Parser.cpp" "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj"
   "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/Token.cpp" "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj"
   "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/LambdaCalculusInterpreter/TokenType.cpp" "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj"
   "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/main.cpp" "C:/Users/rahul/CLionProjects/LambdaCalculusInterpreter/cmake-build-debug/CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj"

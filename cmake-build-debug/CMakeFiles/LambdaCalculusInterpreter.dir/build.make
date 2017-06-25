@@ -152,12 +152,37 @@ CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj
 CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj
 
 
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj: CMakeFiles/LambdaCalculusInterpreter.dir/flags.make
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj: ../LambdaCalculusInterpreter/Parser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Parser.cpp.obj -c C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Parser.cpp
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Parser.cpp > CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Parser.cpp.i
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\LambdaCalculusInterpreter\Parser.cpp -o CMakeFiles\LambdaCalculusInterpreter.dir\LambdaCalculusInterpreter\Parser.cpp.s
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.requires:
+
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.requires
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.provides: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\LambdaCalculusInterpreter.dir\build.make CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.provides.build
+.PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.provides
+
+CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.provides.build: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj
+
+
 # Object files for target LambdaCalculusInterpreter
 LambdaCalculusInterpreter_OBJECTS = \
 "CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp.obj" \
 "CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj" \
 "CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj" \
-"CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj"
+"CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj" \
+"CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj"
 
 # External object files for target LambdaCalculusInterpreter
 LambdaCalculusInterpreter_EXTERNAL_OBJECTS =
@@ -166,11 +191,12 @@ LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/main.cpp
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj
+LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/build.make
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/linklibs.rsp
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/objects1.rsp
 LambdaCalculusInterpreter.exe: CMakeFiles/LambdaCalculusInterpreter.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable LambdaCalculusInterpreter.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rahul\CLionProjects\LambdaCalculusInterpreter\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable LambdaCalculusInterpreter.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LambdaCalculusInterpreter.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -182,6 +208,7 @@ CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInte
 CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Lexer.cpp.obj.requires
 CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/TokenType.cpp.obj.requires
 CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Token.cpp.obj.requires
+CMakeFiles/LambdaCalculusInterpreter.dir/requires: CMakeFiles/LambdaCalculusInterpreter.dir/LambdaCalculusInterpreter/Parser.cpp.obj.requires
 
 .PHONY : CMakeFiles/LambdaCalculusInterpreter.dir/requires
 
