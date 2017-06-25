@@ -10,11 +10,11 @@
 
 class AstApplication : public AstEntity {
 private:
-    AstEntity lhs;
-    AstEntity rhs;
+    AstEntity* lhs;
+    AstEntity* rhs;
 
 public:
-    AstApplication(const AstEntity &lhs, const AstEntity &rhs);
+    AstApplication(AstEntity *lhs, AstEntity *rhs);
 
     char *toString() override;
 };

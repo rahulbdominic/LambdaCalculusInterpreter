@@ -16,13 +16,13 @@ private:
 public:
     Parser(Lexer lexer);
 
-    AstEntity parse();
+    AstEntity* parse();
 
-    AstEntity term(std::vector<char> ctx);
+    AstEntity* term(std::vector<char> ctx);
 
-    AstEntity application(std::vector<char> ctx);
+    AstEntity* application(std::vector<char> ctx);
 
-    AstEntity atom(std::vector<char> ctx);
+    AstEntity* atom(std::vector<char> ctx);
 };
 
 

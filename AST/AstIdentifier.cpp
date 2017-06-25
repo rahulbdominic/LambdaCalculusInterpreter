@@ -9,6 +9,6 @@ AstIdentifier::AstIdentifier(int value) : value(value) {}
 
 char *AstIdentifier::toString() {
     char *buff = new char[2];
-    snprintf(buff, sizeof(buff), "%c", value);
+    snprintf(buff, sizeof(buff), "%d", value);
     return buff;
 }

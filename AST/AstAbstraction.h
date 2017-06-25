@@ -10,11 +10,11 @@
 
 class AstAbstraction : public AstEntity {
 private:
-    char param;
-    AstEntity body;
+    char* param;
+    AstEntity* body;
 
 public:
-    AstAbstraction(char param, const AstEntity &body);
+    AstAbstraction(char *param, AstEntity *body);
 
     char *toString() override;
 };

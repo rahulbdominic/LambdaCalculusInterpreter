@@ -5,5 +5,7 @@
 #include "Epsilon.h"
 
 char *Epsilon::toString() {
-    return (char *) "e";
+    char *str = new char[2]{'e', '\0'};
+
+    return str;
 }
