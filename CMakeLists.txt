@@ -3,5 +3,5 @@ project(LambdaCalculusInterpreter)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp LambdaCalculusInterpreter/Lexer.cpp LambdaCalculusInterpreter/Lexer.h LambdaCalculusInterpreter/TokenType.cpp LambdaCalculusInterpreter/TokenType.h LambdaCalculusInterpreter/Token.cpp LambdaCalculusInterpreter/Token.h LambdaCalculusInterpreter/Parser.cpp LambdaCalculusInterpreter/Parser.h)
+set(SOURCE_FILES main.cpp Lexer.cpp Lexer.h TokenType.cpp TokenType.h Token.cpp Token.h Parser.cpp Parser.h)
 add_executable(LambdaCalculusInterpreter ${SOURCE_FILES})
